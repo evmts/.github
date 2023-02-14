@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  EVM in the browser
+  Execute solidity scripts in the browser
 <p>
 
 <div align="center">
