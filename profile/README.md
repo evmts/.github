@@ -1,18 +1,16 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wagmi-dev/.github/main/content/logo-dark.svg">
-    <img alt="wagmi logo" src="https://raw.githubusercontent.com/wagmi-dev/.github/main/content/logo-light.svg" width="auto" height="60">
+    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/35039927/218811696-439bc7eb-6eaf-4f4b-aecd-4c89b9dcaf6f.png">
+    <img alt="wagmi logo" src="https://user-images.githubusercontent.com/35039927/218811696-439bc7eb-6eaf-4f4b-aecd-4c89b9dcaf6f.png" width="auto" height="60">
   </picture>
 </p>
 
 <p align="center">
-  JavaScript and TypeScript Interfaces for Ethereum
+  EVM in the browser
 <p>
 
 <div align="center">
-  <a href="https://wagmi.sh/docs/getting-started">Quick Start</a> –
-  <a href="https://wagmi.sh">Docs</a> –
-  <a href="https://twitter.com/wagmi_sh">Twitter</a> –
-  <a href="https://wagmi.sh/gitcoin">Gitcoin</a>
+  <a href="https://github.com/evmts/ethereumjs-monorepo">Docs</a> –
 </div>
+
 
