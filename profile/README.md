@@ -10,5 +10,5 @@
 <p>
 
 <div align="center">
-  <a href="https://github.com/evmts/ethereumjs-monorepo">Docs</a> –
+  <a href="https://github.com/evmts/ethereumjs-monorepo">Docs</a>
 </div>
